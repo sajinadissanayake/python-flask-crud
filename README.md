@@ -1,1 +1,1 @@
-# python-flask-crud
+# python-flask-student management system
